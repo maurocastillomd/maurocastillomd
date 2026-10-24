@@ -20,7 +20,7 @@ I build the tools a performance department actually uses: small, tested, and hon
 | [performance-huddle](https://github.com/maurocastillomd/performance-huddle) | Daily brief that brings S&C, sports science, medical, nutrition and coaching into one reviewed update. |
 | [nba-workload](https://github.com/maurocastillomd/nba-workload) | Live NBA schedule congestion and workload monitor. [Open the app](https://nba-workload.streamlit.app). |
 | [open-study-hub](https://github.com/maurocastillomd/open-study-hub) | Free, browser-only study hub for any certification exam. |
-| [read](https://github.com/maurocastillomd/read) | Open-source reading library with guided lessons. |
+| [read](https://github.com/maurocastillomd/read) | Turns the books and articles you own into short visual lessons and a daily review. Open source. |
 
 All athlete data in these projects is synthetic or public.
 
