@@ -16,7 +16,7 @@ I build the tools a performance department actually uses: small, tested, and hon
 | Project | What it does |
 |---|---|
 | [readiness](https://github.com/maurocastillomd/readiness) | Morning readiness brief from wellness, HRV and jump tests. Flags on agreement across domains. Code computes every number. |
-| [mlb-pitching-workload](https://github.com/maurocastillomd/mlb-pitching-workload) | Public-data review of MLB pitching exposure for all 30 teams. |
+| [mlb-pitching-workload](https://github.com/maurocastillomd/mlb-pitching-workload) | Public-data review of MLB pitching exposure for all 30 teams. [Open the app](https://mlb-pitching-workload.streamlit.app). |
 | [performance-huddle](https://github.com/maurocastillomd/performance-huddle) | Daily brief that brings S&C, sports science, medical, nutrition and coaching into one reviewed update. |
 | [nba-workload](https://github.com/maurocastillomd/nba-workload) | Live NBA schedule congestion and workload monitor. [Open the app](https://nba-workload.streamlit.app). |
 | [open-study-hub](https://github.com/maurocastillomd/open-study-hub) | Free, browser-only study hub for any certification exam. |
